@@ -2,7 +2,7 @@
 title: Welcome on the wiki !
 description: 
 published: true
-date: 2019-10-12T11:00:30.195Z
+date: 2019-10-12T11:05:55.993Z
 tags: 
 ---
 
@@ -11,3 +11,11 @@ Your content here
 
 Hello !!!
 this is a test
+
+| ID | Nom | Prénom | Age | Sexe   |
+|---|---|---|---|---|
+| 0  |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
+
